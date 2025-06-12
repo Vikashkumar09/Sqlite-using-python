@@ -71,17 +71,6 @@ GROUP BY product;
 -Readme.md – This file
 ---
 
-## Author
-
-👤 **Abhishek Verma**  
-
-## Contact
-
-📧 Email: [abhisehekverma6290@gmail.com]
-
-## LinkedIn
-
-🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/abhishek-verma-52603a313/)
 
 
 
